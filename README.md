@@ -72,7 +72,7 @@ Multi-container fullstack application with Docker Compose networking.
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshgowda-apigee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshgowda-apigee/)
 [![GitHub](https://img.shields.io/badge/GitHub-rakeshp-Devops-181717?style=flat&logo=github&logoColor=white)](https://github.com/rakeshp-Devops)
 📧 rakeshpbidadi@gmail.com
 
